@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yangxin Wu.
+## 👋 Hi there.
 
 🎓 I’m a Computer Science undergraduate student  
 🔭 Currently focused on deep learning, AI4Science, and open-source contributions  
