@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-- 🎓 I’m a Computer Science undergraduate student  
+- 🎓 A Computer Science undergraduate student  
 - 🔭 Currently focused on deep learning, AI4Science, and open-source contributions  
 - 🌱 Learning advanced and novel generative models' architectures  
 - 🤔 Interested in reinforcement learning
