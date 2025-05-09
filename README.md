@@ -1,11 +1,12 @@
-## 👋 Hi there.
+## 👋 Hi there
 
 🎓 I’m a Computer Science undergraduate student  
 🔭 Currently focused on deep learning, AI4Science, and open-source contributions  
 🌱 Learning advanced and novel generative models' architectures  
+🤔 Interested in reinforcement learning
 🛠️ Tech Stack: Python, PyTorch  
 📫 Reach me: [williamwu50@outlook.com] | [https://williamwuuu.github.io/]
-⚡️ Counter Strike player
+⚡️ Counter Strike enthusiast
 
 ## 📊 GitHub Stats
 
