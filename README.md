@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Yangxin Wu.
 
-<!--
-**WilliamWuuu/WilliamWuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science undergraduate student  
+🔭 Currently focused on deep learning, AI4Science, and open-source contributions  
+🌱 Learning advanced and novel generative models' architectures  
+🛠️ Tech Stack: Python, PyTorch  
+📫 Reach me: [williamwu50@outlook.com] | [williamwuuu.github.io]
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+_“Setbacks are unavoidable, but giving up is unforgivable.” – Steve Jobs_
