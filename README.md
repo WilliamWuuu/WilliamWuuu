@@ -14,6 +14,16 @@
 </a>
 </p>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,c,java,go,git,latex,markdown" />
+</p>
+
+<hr>
+
 ---
 
 _“Setbacks are unavoidable, but giving up is unforgivable.” – Steve Jobs_
