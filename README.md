@@ -24,6 +24,4 @@
 
 <hr>
 
----
-
 _“Setbacks are unavoidable, but giving up is unforgivable.” – Steve Jobs_
