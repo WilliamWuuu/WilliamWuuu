@@ -6,7 +6,6 @@
 - 🤔 Interested in reinforcement learning
 - 🛠️ Tech Stack: Python, PyTorch  
 - 📫 Reach me: [williamwu50@outlook.com] | [https://williamwuuu.github.io/]
-- ⚡️ Counter Strike enthusiast
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,11 +16,9 @@
 ## 🛠️ Languages and Tools
 
 <br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,c,java,go,git,latex,markdown" />
 </p>
-
 <hr>
 
 _“Setbacks are unavoidable, but giving up is unforgivable.” – Steve Jobs_
