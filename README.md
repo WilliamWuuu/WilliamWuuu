@@ -7,18 +7,7 @@
 - 🛠️ Tech Stack: Python, PyTorch  
 - 📫 Reach me: [williamwu50@outlook.com] | [https://williamwuuu.github.io/]
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamWuuu&count_private=true&show_icons=true&theme=solarized-light&show=reviews" />
-</a>
-</p>
-
-## 🛠️ Languages and Tools
-
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,c,java,go,git,latex,markdown" />
-</p>
-<hr>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamWuuu&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamWuuu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 _“Setbacks are unavoidable, but giving up is unforgivable.” – Steve Jobs_
