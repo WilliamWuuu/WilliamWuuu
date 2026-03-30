@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Hi there 
 
 - 🎓 A Computer Science undergraduate student  
 - 🔭 Currently focused on deep learning, AI4Science, and open-source contributions  
@@ -11,3 +11,5 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 _“Setbacks are unavoidable, but giving up is unforgivable.” – Steve Jobs_
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamwuuu&label=Profile%20views&color=0e75b6&style=flat" alt="williamwuuu" /> </p>
