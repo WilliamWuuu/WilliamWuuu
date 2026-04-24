@@ -7,7 +7,10 @@
 - 🛠️ Tech Stack: Python, PyTorch  
 - 📫 Reach me: [william.yangxin.wu@gmail.com] | [https://williamwuuu.github.io/]
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamwuuu&" alt="williamwuuu" /></p>
+<p align="center">
+  <a><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=WilliamWuuu&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="williamwuuu" /></picture></a>
+  <a><picture><img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=williamwuuu&theme=gotham" alt="williamwuuu" />
+</p>
 
 _“Setbacks are unavoidable, but giving up is unforgivable.” – Steve Jobs_
 
